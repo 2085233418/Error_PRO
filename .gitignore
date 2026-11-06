@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+
+# 工作区本地文件，不入库
+.codex/
+final/
+任务接管注意事项.md
+计算机网络协议汇总.xlsx
